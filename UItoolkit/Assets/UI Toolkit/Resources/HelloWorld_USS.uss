@@ -15,5 +15,5 @@
     font-size: 74px;
     color: rgb(255, 255, 255);
     -unity-text-align: middle-center;
-    width: 50%;
+    width: 50%; 
 }

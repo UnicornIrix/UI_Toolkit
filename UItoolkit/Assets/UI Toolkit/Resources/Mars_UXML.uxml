@@ -1,0 +1,10 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Resources/Mars_USS.uss?fileID=7433441132597879392&amp;guid=ff8ff8d6babbb12408c22f56a4614b9f&amp;type=3#Mars_USS" />
+    <engine:VisualElement name="background" style="flex-grow: 1; width: 100%; height: 100%; background-image: resource(&apos;mars_background&apos;); -unity-background-scale-mode: scale-to-fit; background-size: 100% 100%; padding-top: 106px; padding-right: 106px; padding-bottom: 106px; padding-left: 106px; position: absolute;">
+        <engine:Label text="TITLE" name="Mars" style="font-size: 150px; color: rgb(255, 114, 37); -unity-text-align: middle-left; width: auto; left: auto; height: 15%; margin-bottom: 50px;" />
+        <engine:Button text="Button" class="menuButtons" />
+        <engine:Button text="Button" class="menuButtons" />
+        <engine:Button text="Button" class="menuButtons" />
+        <engine:Button text="Button" class="menuButtons" />
+    </engine:VisualElement>
+</engine:UXML>
